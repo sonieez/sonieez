@@ -1,0 +1,23 @@
+import random
+words = ['black', 'white', 'red', 'blue', 'green', 'purple', 'yellow']
+word = random.choice(words)
+guessedword = ['_'] * len(word)
+attempts = 10
+
+while attempts > 0:
+    print('\nCurrent word: ' + ' '.join(guessedword))
+    guess = input("Guess a letter: ").lower()
+    if guess in word: 
+        for i in range(len(word)):
+            if word[i] == guess:
+                guessedword[i] = guess
+        print("Great guess!")
+    else:
+        attempts =- 1
+        print(f"Wrong guess! Attempts left: {attempts}")
+    if '_' not in guessedword:
+        print(f"Congratulations! You guessed the word: {word}")
+        break
+
+if attempts == 0 and '_' in guessedword:
+    print(f"You've run out of attempts! The word was: {word}")
