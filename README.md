@@ -1,5 +1,6 @@
 <h3>Hi there 👋</h3> 
 💻Goal: Full-Stack Developing
+
 🎯Currently focused: Frontend Developing
 <hr>
 
