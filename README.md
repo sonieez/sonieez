@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Project including ML, Python<br>🌱 I’m currently learning: JavaScript<br>🎯I want to be: Frontend Developer, Cybersecurity specialist<br>
+<!--🔭 I’m currently working on: <br>--> 🌱Currently learning: JavaScript<br>🎯Goal: Full-Stack Developer, Cybersecurity specialist<br>
 
 
 ## 🌐 Socials:
