@@ -1,5 +1,5 @@
 # 💫 About Me:
-<!--🔭 I’m currently working on: <br>--> 🌱Currently learning: JavaScript<br>🎯Goal: Full-Stack Developer, Cybersecurity specialist<br>
+<!--🔭 I’m currently working on: <br>--> 🌱Currently learning: JavaScript<br>🎯Goal: Full-Stack Developer,  Cybersecurity specialist<br>
 
 
 ## 🌐 Socials:
