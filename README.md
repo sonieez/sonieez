@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on:  Javascript projects<br><br>🌱 I’m currently learning: Cybersecurity & Frontend
-
+🔭 I’m currently learning:  React<br><br>
+<!--🌱 I’m currently learning: Cybersecurity & Frontend
+-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sonie.z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-zeynalova-249ab738a/) 
